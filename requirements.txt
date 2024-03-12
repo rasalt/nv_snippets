@@ -1,0 +1,13 @@
+langchain
+langchain-nvidia-ai-endpoints
+gradio
+rich
+arxiv
+pymupdf
+faiss-cpu
+ipykernel
+jupyterlab
+langserve
+sse_starlette
+langchain-community
+httpx_sse
